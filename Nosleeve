@@ -1,0 +1,2 @@
+game:GetService("Workspace").Camera.Weapon.Arms.Left["Left Arm"].CharacterClothing:Destroy()
+game:GetService("Workspace").Camera.Weapon.Arms.Right["Right Arm"].CharacterClothing:Destroy()
